@@ -131,7 +131,7 @@ ins{
     min-height: 400px;
     padding: 50px 100px 50px 0;
     background-color: white;
-    background-image: url("/Users/pamelaabreu/Desktop/nw/unit2/FEWD_Developer_Matchmaker/images/coworking.jpg");
+    background-image: url("../images/coworking.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
